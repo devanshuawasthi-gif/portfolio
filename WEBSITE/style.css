@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #0a0a0a;
+  color: white;
+}
+
+#bg {
+  position: fixed;
+  z-index: -1;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  backdrop-filter: blur(10px);
+}
+
+header a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  width: 140px;
+  border-radius: 50%;
+  border: 3px solid cyan;
+}
+
+.glass {
+  background: rgba(255,255,255,0.05);
+  padding: 30px;
+  border-radius: 15px;
+  margin: 40px;
+}
+
+section {
+  text-align: center;
+  padding: 60px;
+}
+
+.card {
+  margin: 20px;
+  padding: 20px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 10px;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background: cyan;
+  color: black;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
