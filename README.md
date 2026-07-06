@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1757-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Sorting
 |  |
 | ------- |
