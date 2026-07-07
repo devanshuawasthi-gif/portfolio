@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1789-primary-department-for-each-employee) |
