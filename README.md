@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1327-list-the-products-ordered-in-a-period) |
