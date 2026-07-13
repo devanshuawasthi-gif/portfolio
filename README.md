@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -173,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
