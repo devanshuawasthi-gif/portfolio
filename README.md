@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
