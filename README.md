@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2352-equal-row-and-column-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1732-find-the-highest-altitude) |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -162,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2352-equal-row-and-column-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1657-determine-if-two-strings-are-close) |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -221,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -255,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
