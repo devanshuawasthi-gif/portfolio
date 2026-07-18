@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2685-count-the-number-of-complete-components) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -288,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
