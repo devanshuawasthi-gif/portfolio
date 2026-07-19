@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1768-merge-strings-alternately) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0649-dota2-senate) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0735-asteroid-collision) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
