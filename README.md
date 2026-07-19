@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -28,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2685-count-the-number-of-complete-components) |
