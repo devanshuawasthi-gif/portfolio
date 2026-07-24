@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0338-counting-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
