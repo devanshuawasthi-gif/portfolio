@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0334-increasing-triplet-subsequence) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0338-counting-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
