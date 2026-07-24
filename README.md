@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1207-unique-number-of-occurrences) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
