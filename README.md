@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1207-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -451,4 +454,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
