@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3312-sorted-gcd-pair-queries) |
@@ -457,4 +460,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
