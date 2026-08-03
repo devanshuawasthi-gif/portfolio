@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0746-min-cost-climbing-stairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2542-maximum-subsequence-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
