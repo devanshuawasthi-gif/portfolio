@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1288-remove-covered-intervals) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
