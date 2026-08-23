@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2029-stone-game-ix) |
 | [2542-maximum-subsequence-score](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
