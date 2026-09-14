@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1137-n-th-tribonacci-number) |
@@ -658,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
