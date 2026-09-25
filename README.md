@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1331-rank-transform-of-an-array) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0208-implement-trie-prefix-tree) |
+| [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1386-cinema-seat-allocation) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -636,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
