@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0162-find-peak-element) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0435-non-overlapping-intervals) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0283-move-zeroes) |
@@ -722,4 +725,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
