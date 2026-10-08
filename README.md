@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0216-combination-sum-iii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0836-rectangle-overlap) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0392-is-subsequence) |
