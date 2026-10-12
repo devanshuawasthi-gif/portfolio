@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0062-unique-paths) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0334-increasing-triplet-subsequence) |
