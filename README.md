@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0628-maximum-product-of-three-numbers) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0394-decode-string) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1331-rank-transform-of-an-array) |
