@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0486-predict-the-winner) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0022-generate-parentheses) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0208-implement-trie-prefix-tree) |
