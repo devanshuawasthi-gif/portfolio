@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0169-majority-element) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0151-reverse-words-in-a-string) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0217-contains-duplicate) |
