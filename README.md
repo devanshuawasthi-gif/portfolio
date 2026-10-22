@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0088-merge-sorted-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0151-reverse-words-in-a-string) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/devanshuawasthi-gif/portfolio/tree/master/2352-equal-row-and-column-pairs) |
