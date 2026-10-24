@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0242-valid-anagram) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0283-move-zeroes) |
