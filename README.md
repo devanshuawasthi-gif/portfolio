@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0401-binary-watch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshuawasthi-gif/portfolio/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
