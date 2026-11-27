@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0125-valid-palindrome) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/devanshuawasthi-gif/portfolio/tree/master/0735-asteroid-collision) |
